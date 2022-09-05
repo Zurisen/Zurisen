@@ -17,7 +17,6 @@
 
 ---
 
-<div id="wrapper">
-    <div id="first"><img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zurisen&theme=tokyonight&hide=Jupyter Notebook,C&coures,html&langs_count=6&layout=compact" /></div>
-    <div id="second"><img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=Zurisen&show_icons=true&theme=tokyonight" /></div>
-</div>
+
+<div id="second"><img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=Zurisen&show_icons=true&theme=tokyonight" /></div>
+
