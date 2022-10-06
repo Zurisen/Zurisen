@@ -18,5 +18,5 @@
 ---
 
 
-<div id="second"><img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=Zurisen&show_icons=true&theme=tokyonight" /></div>
+<div id="second"><img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=Zurisen&show_icons=true&theme=tokyonight&count_private=true" /></div>
 
