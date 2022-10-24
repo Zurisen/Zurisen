@@ -18,5 +18,5 @@
 ---
 
 
-<div id="second"><img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=Zurisen&show_icons=true&theme=tokyonight&count_private=true" /></div>
-
+<!-- <div id="second"><img align="center" width="420px" src="https://github-readme-stats.vercel.app/api?username=Zurisen&show_icons=true&theme=tokyonight&count_private=true" /></div> -->
+<div id="second"><img align="center" width="420px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zurisen&hide=jupyter+notebook,html&langs_count=6&layout=compact&theme=tokyonight" /></div>
