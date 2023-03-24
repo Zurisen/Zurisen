@@ -1,6 +1,6 @@
 ### Contact me:
-<li><a href="mailto:mtcarlos98@gmail.com" style="color:#3397d1">E-Mail</a> :mailbox_with_mail: </li> 
-<li><a href="https://www.linkedin.com/in/carlos-marcos-torrejón-81a2201b6" target="_blank" style="color:#3397d1" >LinkedIn</a> :busts_in_silhouette: </li>
+<li><a href="mailto:carlosmarctor@gmail.com" style="color:#3397d1">E-Mail</a> :mailbox_with_mail: </li> 
+<li><a href="https://www.linkedin.com/in/carlos-marcos-2808" target="_blank" style="color:#3397d1" >LinkedIn</a> :busts_in_silhouette: </li>
 
 ### Languages and Tools:
 
