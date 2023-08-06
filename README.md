@@ -5,6 +5,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
 <img align="left" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="Spark" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
 <img align="left" alt="Azure Cloud Services" width="40px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Cloud-Services-(Classic).svg" />
