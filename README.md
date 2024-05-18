@@ -4,12 +4,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp" />
 <img align="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/>
-<img align="left" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
-<img align="left" alt="Spark" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
-<img align="left" alt="Azure Cloud Services" width="40px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Cloud-Services-(Classic).svg" />
+<img align="left" alt="C#" width="30px" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" />
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="PyTorch" width="40px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="Matlab" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 <img align="left" alt="vim" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="Git" width="35px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
